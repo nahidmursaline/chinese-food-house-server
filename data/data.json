@@ -1,0 +1,398 @@
+[
+     {
+        "id": 1,
+      "name": "Li Ming",
+      "picture": "https://i.ibb.co/hRWj6x5/chef-1.jpg",
+      "bio": "Li Ming is a highly skilled chef with over 12 years of experience cooking traditional Chinese dishes. He is known for his mastery of spicy dishes like Kung Pao Chicken and Sichuan Beef Noodles.",
+      "years_of_experience": 20,
+      "num_recipes": 100,
+      "likes": 10000,
+      "recipes": [
+        {
+          "name": "Gong Bao Chicken",
+          "description": "A classic Sichuan dish with chicken, peanuts, and chili peppers.",
+          "ingredients": [
+            "2 boneless, skinless chicken breasts",
+            "1/2 cup peanuts",
+            "4 dried chili peppers",
+            "1 tablespoon soy sauce",
+            "1 tablespoon rice vinegar",
+            "1 tablespoon sugar",
+            "1 tablespoon cornstarch",
+            "2 cloves garlic",
+            "1 inch ginger"
+          ],
+          "cooking_method": "1. Cut the chicken into small cubes and marinate in soy sauce, rice vinegar, sugar, and cornstarch for 15 minutes. 2. Heat oil in a wok and stir-fry the chicken until cooked through. 3. Add the garlic, ginger, chili peppers, and peanuts and stir-fry for another minute. 4. Serve with steamed rice.",
+          "rating": 4.5,
+          "picture": "https://example.com/gongbao_chicken.jpg"
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "description": "A classic soup with a balance of hot and sour flavors.",
+          "ingredients": [
+            "4 cups chicken broth",
+            "4 oz shiitake mushrooms",
+            "2 tablespoons soy sauce",
+            "2 tablespoons rice vinegar",
+            "1 tablespoon chili garlic sauce",
+            "1 tablespoon cornstarch",
+            "2 eggs",
+            "1/2 cup bamboo shoots",
+            "1/2 cup firm tofu"
+          ],
+          "cooking_method": "1. Bring chicken broth to a boil and add the mushrooms, soy sauce, rice vinegar, and chili garlic sauce. 2. Dissolve cornstarch in a little bit of water and add it to the soup to thicken. 3. Beat the eggs in a small bowl and slowly pour them into the soup while stirring. 4. Add the bamboo shoots and tofu and cook for another 2-3 minutes. 5. Serve hot.",
+          "rating": 4.2,
+          "picture": "https://example.com/hot_sour_soup.jpg"
+        },
+        {
+          "name": "Szechuan Beef",
+          "description": "A spicy and flavorful beef stir-fry with Szechuan peppercorns.",
+          "ingredients": [
+            "1 lb flank steak",
+            "1 tablespoon soy sauce",
+            "1 tablespoon rice wine",
+            "1 tablespoon cornstarch",
+            "1 teaspoon Szechuan peppercorns",
+            "1 red bell pepper",
+            "1 green bell pepper",
+            "1 onion",
+            "2 cloves garlic",
+            "1 inch ginger"
+          ],
+          "cooking_method": "1. Cut the beef into thin strips and marinate in soy sauce, rice wine, cornstarch, and crushed Szechuan peppercorns for 15 minutes. 2. Heat oil in a wok and stir-fry the beef until browned. 3. Add the garlic, ginger, and vegetables and stir-fry for another 2-3 minutes. 4. Serve with steamed rice.",
+          "rating": 4.7,
+          "picture": "https://example.com/szechuan_beef.jpg"
+        }
+      ]
+    },
+    {   "id": 2,
+        "name": "Martin Yan",
+        "picture": "https://i.ibb.co/371jqDm/chef-3.jpg",
+        "bio": "Martin Yan is a highly skilled chef with over 12 years of experience cooking traditional Chinese dishes. He is known for his mastery of spicy dishes like Kung Pao Chicken and Sichuan Beef Noodles.",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 1000,
+        "recipes": [
+          {
+            "name": "Gong Bao Chicken",
+            "description": "A classic Sichuan dish with chicken, peanuts, and chili peppers.",
+            "ingredients": [
+              "2 boneless, skinless chicken breasts",
+              "1/2 cup peanuts",
+              "4 dried chili peppers",
+              "1 tablespoon soy sauce",
+              "1 tablespoon rice vinegar",
+              "1 tablespoon sugar",
+              "1 tablespoon cornstarch",
+              "2 cloves garlic",
+              "1 inch ginger"
+            ],
+            "cooking_method": "1. Cut the chicken into small cubes and marinate in soy sauce, rice vinegar, sugar, and cornstarch for 15 minutes. 2. Heat oil in a wok and stir-fry the chicken until cooked through. 3. Add the garlic, ginger, chili peppers, and peanuts and stir-fry for another minute. 4. Serve with steamed rice.",
+            "rating": 4.5,
+            "picture": "https://example.com/gongbao_chicken.jpg"
+          },
+          {
+            "name": "Hot and Sour Soup",
+            "description": "A classic soup with a balance of hot and sour flavors.",
+            "ingredients": [
+              "4 cups chicken broth",
+              "4 oz shiitake mushrooms",
+              "2 tablespoons soy sauce",
+              "2 tablespoons rice vinegar",
+              "1 tablespoon chili garlic sauce",
+              "1 tablespoon cornstarch",
+              "2 eggs",
+              "1/2 cup bamboo shoots",
+              "1/2 cup firm tofu"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil and add the mushrooms, soy sauce, rice vinegar, and chili garlic sauce. 2. Dissolve cornstarch in a little bit of water and add it to the soup to thicken. 3. Beat the eggs in a small bowl and slowly pour them into the soup while stirring. 4. Add the bamboo shoots and tofu and cook for another 2-3 minutes. 5. Serve hot.",
+            "rating": 4.2,
+            "picture": "https://example.com/hot_sour_soup.jpg"
+          },
+          {
+            "name": "Szechuan Beef",
+            "description": "A spicy and flavorful beef stir-fry with Szechuan peppercorns.",
+            "ingredients": [
+              "1 lb flank steak",
+              "1 tablespoon soy sauce",
+              "1 tablespoon rice wine",
+              "1 tablespoon cornstarch",
+              "1 teaspoon Szechuan peppercorns",
+              "1 red bell pepper",
+              "1 green bell pepper",
+              "1 onion",
+              "2 cloves garlic",
+              "1 inch ginger"
+            ],
+            "cooking_method": "1. Cut the beef into thin strips and marinate in soy sauce, rice wine, cornstarch, and crushed Szechuan peppercorns for 15 minutes. 2. Heat oil in a wok and stir-fry the beef until browned. 3. Add the garlic, ginger, and vegetables and stir-fry for another 2-3 minutes. 4. Serve with steamed rice.",
+            "rating": 4.7,
+            "picture": "https://example.com/szechuan_beef.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Ken Hom",
+        "picture": "https://i.ibb.co/CQXWjZ9/chef-2.jpg",
+        "bio": "Ken Hom is a highly skilled chef with over 12 years of experience cooking traditional Chinese dishes. He is known for his mastery of spicy dishes like Kung Pao Chicken and Sichuan Beef Noodles.",
+        "years_of_experience": 15,
+        "num_recipes": 60,
+        "likes": 20000,
+        "recipes": [
+          {
+            "name": "Gong Bao Chicken",
+            "description": "A classic Sichuan dish with chicken, peanuts, and chili peppers.",
+            "ingredients": [
+              "2 boneless, skinless chicken breasts",
+              "1/2 cup peanuts",
+              "4 dried chili peppers",
+              "1 tablespoon soy sauce",
+              "1 tablespoon rice vinegar",
+              "1 tablespoon sugar",
+              "1 tablespoon cornstarch",
+              "2 cloves garlic",
+              "1 inch ginger"
+            ],
+            "cooking_method": "1. Cut the chicken into small cubes and marinate in soy sauce, rice vinegar, sugar, and cornstarch for 15 minutes. 2. Heat oil in a wok and stir-fry the chicken until cooked through. 3. Add the garlic, ginger, chili peppers, and peanuts and stir-fry for another minute. 4. Serve with steamed rice.",
+            "rating": 4.5,
+            "picture": "https://example.com/gongbao_chicken.jpg"
+          },
+          {
+            "name": "Hot and Sour Soup",
+            "description": "A classic soup with a balance of hot and sour flavors.",
+            "ingredients": [
+              "4 cups chicken broth",
+              "4 oz shiitake mushrooms",
+              "2 tablespoons soy sauce",
+              "2 tablespoons rice vinegar",
+              "1 tablespoon chili garlic sauce",
+              "1 tablespoon cornstarch",
+              "2 eggs",
+              "1/2 cup bamboo shoots",
+              "1/2 cup firm tofu"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil and add the mushrooms, soy sauce, rice vinegar, and chili garlic sauce. 2. Dissolve cornstarch in a little bit of water and add it to the soup to thicken. 3. Beat the eggs in a small bowl and slowly pour them into the soup while stirring. 4. Add the bamboo shoots and tofu and cook for another 2-3 minutes. 5. Serve hot.",
+            "rating": 4.2,
+            "picture": "https://example.com/hot_sour_soup.jpg"
+          },
+          {
+            "name": "Szechuan Beef",
+            "description": "A spicy and flavorful beef stir-fry with Szechuan peppercorns.",
+            "ingredients": [
+              "1 lb flank steak",
+              "1 tablespoon soy sauce",
+              "1 tablespoon rice wine",
+              "1 tablespoon cornstarch",
+              "1 teaspoon Szechuan peppercorns",
+              "1 red bell pepper",
+              "1 green bell pepper",
+              "1 onion",
+              "2 cloves garlic",
+              "1 inch ginger"
+            ],
+            "cooking_method": "1. Cut the beef into thin strips and marinate in soy sauce, rice wine, cornstarch, and crushed Szechuan peppercorns for 15 minutes. 2. Heat oil in a wok and stir-fry the beef until browned. 3. Add the garlic, ginger, and vegetables and stir-fry for another 2-3 minutes. 4. Serve with steamed rice.",
+            "rating": 4.7,
+            "picture": "https://example.com/szechuan_beef.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Ching-He Huang",
+        "picture": "https://i.ibb.co/r3MxBH9/chef-4.jpg",
+        "bio": "Ching-He Huang is a highly skilled chef with over 12 years of experience cooking traditional Chinese dishes. He is known for his mastery of spicy dishes like Kung Pao Chicken and Sichuan Beef Noodles.",
+        "years_of_experience": 17,
+        "num_recipes": 70,
+        "likes": 30000,
+        "recipes": [
+          {
+            "name": "Gong Bao Chicken",
+            "description": "A classic Sichuan dish with chicken, peanuts, and chili peppers.",
+            "ingredients": [
+              "2 boneless, skinless chicken breasts",
+              "1/2 cup peanuts",
+              "4 dried chili peppers",
+              "1 tablespoon soy sauce",
+              "1 tablespoon rice vinegar",
+              "1 tablespoon sugar",
+              "1 tablespoon cornstarch",
+              "2 cloves garlic",
+              "1 inch ginger"
+            ],
+            "cooking_method": "1. Cut the chicken into small cubes and marinate in soy sauce, rice vinegar, sugar, and cornstarch for 15 minutes. 2. Heat oil in a wok and stir-fry the chicken until cooked through. 3. Add the garlic, ginger, chili peppers, and peanuts and stir-fry for another minute. 4. Serve with steamed rice.",
+            "rating": 4.5,
+            "picture": "https://example.com/gongbao_chicken.jpg"
+          },
+          {
+            "name": "Hot and Sour Soup",
+            "description": "A classic soup with a balance of hot and sour flavors.",
+            "ingredients": [
+              "4 cups chicken broth",
+              "4 oz shiitake mushrooms",
+              "2 tablespoons soy sauce",
+              "2 tablespoons rice vinegar",
+              "1 tablespoon chili garlic sauce",
+              "1 tablespoon cornstarch",
+              "2 eggs",
+              "1/2 cup bamboo shoots",
+              "1/2 cup firm tofu"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil and add the mushrooms, soy sauce, rice vinegar, and chili garlic sauce. 2. Dissolve cornstarch in a little bit of water and add it to the soup to thicken. 3. Beat the eggs in a small bowl and slowly pour them into the soup while stirring. 4. Add the bamboo shoots and tofu and cook for another 2-3 minutes. 5. Serve hot.",
+            "rating": 4.2,
+            "picture": "https://example.com/hot_sour_soup.jpg"
+          },
+          {
+            "name": "Szechuan Beef",
+            "description": "A spicy and flavorful beef stir-fry with Szechuan peppercorns.",
+            "ingredients": [
+              "1 lb flank steak",
+              "1 tablespoon soy sauce",
+              "1 tablespoon rice wine",
+              "1 tablespoon cornstarch",
+              "1 teaspoon Szechuan peppercorns",
+              "1 red bell pepper",
+              "1 green bell pepper",
+              "1 onion",
+              "2 cloves garlic",
+              "1 inch ginger"
+            ],
+            "cooking_method": "1. Cut the beef into thin strips and marinate in soy sauce, rice wine, cornstarch, and crushed Szechuan peppercorns for 15 minutes. 2. Heat oil in a wok and stir-fry the beef until browned. 3. Add the garlic, ginger, and vegetables and stir-fry for another 2-3 minutes. 4. Serve with steamed rice.",
+            "rating": 4.7,
+            "picture": "https://example.com/szechuan_beef.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Danny Bowien",
+        "picture": "https://i.ibb.co/nBb63Y8/chef-5.jpg",
+        "bio": "Danny Bowien is a highly skilled chef with over 12 years of experience cooking traditional Chinese dishes. He is known for his mastery of spicy dishes like Kung Pao Chicken and Sichuan Beef Noodles.",
+        "years_of_experience": 19,
+        "num_recipes": 80,
+        "likes": 40000,
+        "recipes": [
+          {
+            "name": "Gong Bao Chicken",
+            "description": "A classic Sichuan dish with chicken, peanuts, and chili peppers.",
+            "ingredients": [
+              "2 boneless, skinless chicken breasts",
+              "1/2 cup peanuts",
+              "4 dried chili peppers",
+              "1 tablespoon soy sauce",
+              "1 tablespoon rice vinegar",
+              "1 tablespoon sugar",
+              "1 tablespoon cornstarch",
+              "2 cloves garlic",
+              "1 inch ginger"
+            ],
+            "cooking_method": "1. Cut the chicken into small cubes and marinate in soy sauce, rice vinegar, sugar, and cornstarch for 15 minutes. 2. Heat oil in a wok and stir-fry the chicken until cooked through. 3. Add the garlic, ginger, chili peppers, and peanuts and stir-fry for another minute. 4. Serve with steamed rice.",
+            "rating": 4.5,
+            "picture": "https://example.com/gongbao_chicken.jpg"
+          },
+          {
+            "name": "Hot and Sour Soup",
+            "description": "A classic soup with a balance of hot and sour flavors.",
+            "ingredients": [
+              "4 cups chicken broth",
+              "4 oz shiitake mushrooms",
+              "2 tablespoons soy sauce",
+              "2 tablespoons rice vinegar",
+              "1 tablespoon chili garlic sauce",
+              "1 tablespoon cornstarch",
+              "2 eggs",
+              "1/2 cup bamboo shoots",
+              "1/2 cup firm tofu"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil and add the mushrooms, soy sauce, rice vinegar, and chili garlic sauce. 2. Dissolve cornstarch in a little bit of water and add it to the soup to thicken. 3. Beat the eggs in a small bowl and slowly pour them into the soup while stirring. 4. Add the bamboo shoots and tofu and cook for another 2-3 minutes. 5. Serve hot.",
+            "rating": 4.2,
+            "picture": "https://example.com/hot_sour_soup.jpg"
+          },
+          {
+            "name": "Szechuan Beef",
+            "description": "A spicy and flavorful beef stir-fry with Szechuan peppercorns.",
+            "ingredients": [
+              "1 lb flank steak",
+              "1 tablespoon soy sauce",
+              "1 tablespoon rice wine",
+              "1 tablespoon cornstarch",
+              "1 teaspoon Szechuan peppercorns",
+              "1 red bell pepper",
+              "1 green bell pepper",
+              "1 onion",
+              "2 cloves garlic",
+              "1 inch ginger"
+            ],
+            "cooking_method": "1. Cut the beef into thin strips and marinate in soy sauce, rice wine, cornstarch, and crushed Szechuan peppercorns for 15 minutes. 2. Heat oil in a wok and stir-fry the beef until browned. 3. Add the garlic, ginger, and vegetables and stir-fry for another 2-3 minutes. 4. Serve with steamed rice.",
+            "rating": 4.7,
+            "picture": "https://example.com/szechuan_beef.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "David Chang",
+        "picture": "https://i.ibb.co/Qjh8TLx/chef-6.jpg",
+        "bio": "David Chang is a highly skilled chef with over 12 years of experience cooking traditional Chinese dishes. He is known for his mastery of spicy dishes like Kung Pao Chicken and Sichuan Beef Noodles.",
+        "years_of_experience": 8,
+        "num_recipes": 90,
+        "likes": 50000,
+        "recipes": [
+          {
+            "name": "Gong Bao Chicken",
+            "description": "A classic Sichuan dish with chicken, peanuts, and chili peppers.",
+            "ingredients": [
+              "2 boneless, skinless chicken breasts",
+              "1/2 cup peanuts",
+              "4 dried chili peppers",
+              "1 tablespoon soy sauce",
+              "1 tablespoon rice vinegar",
+              "1 tablespoon sugar",
+              "1 tablespoon cornstarch",
+              "2 cloves garlic",
+              "1 inch ginger"
+            ],
+            "cooking_method": "1. Cut the chicken into small cubes and marinate in soy sauce, rice vinegar, sugar, and cornstarch for 15 minutes. 2. Heat oil in a wok and stir-fry the chicken until cooked through. 3. Add the garlic, ginger, chili peppers, and peanuts and stir-fry for another minute. 4. Serve with steamed rice.",
+            "rating": 4.5,
+            "picture": "https://example.com/gongbao_chicken.jpg"
+          },
+          {
+            "name": "Hot and Sour Soup",
+            "description": "A classic soup with a balance of hot and sour flavors.",
+            "ingredients": [
+              "4 cups chicken broth",
+              "4 oz shiitake mushrooms",
+              "2 tablespoons soy sauce",
+              "2 tablespoons rice vinegar",
+              "1 tablespoon chili garlic sauce",
+              "1 tablespoon cornstarch",
+              "2 eggs",
+              "1/2 cup bamboo shoots",
+              "1/2 cup firm tofu"
+            ],
+            "cooking_method": "1. Bring chicken broth to a boil and add the mushrooms, soy sauce, rice vinegar, and chili garlic sauce. 2. Dissolve cornstarch in a little bit of water and add it to the soup to thicken. 3. Beat the eggs in a small bowl and slowly pour them into the soup while stirring. 4. Add the bamboo shoots and tofu and cook for another 2-3 minutes. 5. Serve hot.",
+            "rating": 4.2,
+            "picture": "https://example.com/hot_sour_soup.jpg"
+          },
+          {
+            "name": "Szechuan Beef",
+            "description": "A spicy and flavorful beef stir-fry with Szechuan peppercorns.",
+            "ingredients": [
+              "1 lb flank steak",
+              "1 tablespoon soy sauce",
+              "1 tablespoon rice wine",
+              "1 tablespoon cornstarch",
+              "1 teaspoon Szechuan peppercorns",
+              "1 red bell pepper",
+              "1 green bell pepper",
+              "1 onion",
+              "2 cloves garlic",
+              "1 inch ginger"
+            ],
+            "cooking_method": "1. Cut the beef into thin strips and marinate in soy sauce, rice wine, cornstarch, and crushed Szechuan peppercorns for 15 minutes. 2. Heat oil in a wok and stir-fry the beef until browned. 3. Add the garlic, ginger, and vegetables and stir-fry for another 2-3 minutes. 4. Serve with steamed rice.",
+            "rating": 4.7,
+            "picture": "https://example.com/szechuan_beef.jpg"
+          }
+        ]
+      }
+]
+  
