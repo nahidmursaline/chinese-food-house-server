@@ -11,7 +11,6 @@ app.get('/', (req, res) => {
   res.send('Food is coming!')
 })
 
-
 app.get('/data', (req, res) =>{
   res.send(data);
 })
