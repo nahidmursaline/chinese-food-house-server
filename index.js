@@ -8,6 +8,7 @@ const data = require('./data/data.json');
 // cors added
 app.use(cors());
 
+//server test
 app.get('/', (req, res) => {
   res.send('Food is coming!')
 })
